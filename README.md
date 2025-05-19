@@ -4,7 +4,7 @@ This template provides a minimal setup to reproduce the `SyntaxError: Cannot use
 
 # Steps to Reproduce
 
-* Run under node 22+
+* Run under node 22+ (`nvm use 22`)
 * `npm i`
 * `npm run test`
 
